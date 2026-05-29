@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+AI+%26+Data+Science+%7C+Mepco+Schlenk+Engineering+College;Cybersecurity+Honors+%F0%9F%94%90+%7C+CGPA+7.98%2F10;94%25+Accurate+Drone+Detection+%7C+Journal+Publication+%F0%9F%93%84;AWS+Cloud+Practitioner+%7C+Ethical+Hacking+Certified;Open+to+Cybersecurity+%7C+AI%2FML+%7C+Full-Stack+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%7C+Mepco+Schlenk+Engineering+College;Cybersecurity+Honors+%F0%9F%94%90+%7C+CGPA+7.98%2F10;94%25+Accurate+Drone+Detection+%7C+Journal+Under+Review+%F0%9F%93%84;AWS+Cloud+Practitioner+%7C+Ethical+Hacking+Certified;Open+to+Cybersecurity+%7C+AI%2FML+%7C+Full-Stack+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -74,18 +74,21 @@
 
 ---
 
-### 🤟 ISL Translator & Tamil OCR
+### 🤟 ISL Translator & Tamil OCR *(repo coming soon)*
 > *Python · OpenCV · MediaPipe · TensorFlow · LSTM*
 
 - Real-time Indian Sign Language gesture recognition → text & speech at **88%+ accuracy**
 - Tamil handwritten OCR pipeline with English translation at **85%+ accuracy**
+- Dual-model pipeline bridging accessibility gaps for hearing-impaired and Tamil-speaking communities
 
 ---
 
 ### 🍽️ [FlavorQuest](https://github.com/harinym112/FlavorQuest)
-> *TypeScript*
+> *TypeScript · React · Vite · Tailwind CSS*
 
-- Discover. Cook. Enjoy. 🍳
+- Recipe discovery app with category filtering, keyword search, and modal-based detail view
+- Component-driven architecture with reusable TypeScript interfaces for scalable data handling
+- Responsive UI built with Tailwind CSS — optimized for mobile and desktop
 
 ---
 
@@ -102,6 +105,20 @@
 | **DevOps & Cloud** | Docker · AWS · CI/CD · Jenkins · Git |
 | **Databases** | MongoDB · MySQL · NoSQL |
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harinym112&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinym112&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinym112&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" />
 </div>
 
 ---
@@ -128,19 +145,6 @@
 ![NPTEL](https://img.shields.io/badge/Joy_of_Computing_(Python)-NPTEL-orange?style=for-the-badge)
 ![NPTEL](https://img.shields.io/badge/Programming_in_Java-NPTEL-orange?style=for-the-badge)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harinym112&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinym112&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=58a6ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinym112&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 ---
