@@ -101,7 +101,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -122,7 +121,6 @@
 
 ---
 
-## 📜 Certifications
 
 ## 📜 Certifications
 
