@@ -1,13 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=180&section=header&text=Hariny%20M&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%7C+Mepco+Schlenk+Engineering+College;Cybersecurity+Honors+%F0%9F%94%90+%7C+CGPA+7.98%2F10;94%25+Accurate+Drone+Detection+%7C+Journal+Under+Review+%F0%9F%93%84;AWS+Cloud+Practitioner+%7C+Ethical+Hacking+Certified;Open+to+Cybersecurity+%7C+AI%2FML+%7C+Full-Stack+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+  <img src="./banner.svg" alt="Hariny M — AI & Data Science | Cybersecurity | Full-Stack Developer" width="100%"/>
 </div>
 
 <br/>
@@ -79,7 +71,7 @@
 
 - Real-time Indian Sign Language gesture recognition → text & speech at **88%+ accuracy**
 - Tamil handwritten OCR pipeline with English translation at **85%+ accuracy**
-- Dual-model pipeline bridging accessibility gaps for hearing-impaired and Tamil-speaking communities
+- Bridges accessibility gaps for hearing-impaired and Tamil-speaking communities
 
 ---
 
@@ -118,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinym112&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinym112&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117"/>
 </div>
 
 ---
@@ -140,18 +132,16 @@
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking_Bootcamp-Zero_to_Mastery-1a1a2e?style=for-the-badge&logo=udemy&logoColor=white)
-![CDFA](https://img.shields.io/badge/Certified_Digital_Forensic_Analyst-CDFA-blue?style=for-the-badge&logo=shield&logoColor=white)
+![CDFA](https://img.shields.io/badge/Certified_Digital_Forensic_Analyst-CDFA-0057B8?style=for-the-badge&logoColor=white)
 ![Infosys](https://img.shields.io/badge/Software_Engineering_%26_Agile-Infosys-0066CC?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/Joy_of_Computing_(Python)-NPTEL-orange?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/Programming_in_Java-NPTEL-orange?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/Joy_of_Computing_(Python)-NPTEL-F96C1B?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/Programming_in_Java-NPTEL-F96C1B?style=for-the-badge)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&fontColor=58a6ff" />
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=harinym112&color=58a6ff&style=flat-square&label=Profile+Views)
 
